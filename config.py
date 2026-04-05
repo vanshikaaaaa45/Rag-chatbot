@@ -1,4 +1,0 @@
-MODEL_NAME = "llama3"
-CHUNK_SIZE = 400
-CHUNK_OVERLAP = 150
-DB_DIR = "chroma_db"
